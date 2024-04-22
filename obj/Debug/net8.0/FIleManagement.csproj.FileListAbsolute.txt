@@ -1,0 +1,15 @@
+C:\Users\alexs\source\repos\CodingFactory5\FIleManagement\bin\Debug\net8.0\FIleManagement.exe
+C:\Users\alexs\source\repos\CodingFactory5\FIleManagement\bin\Debug\net8.0\FIleManagement.deps.json
+C:\Users\alexs\source\repos\CodingFactory5\FIleManagement\bin\Debug\net8.0\FIleManagement.runtimeconfig.json
+C:\Users\alexs\source\repos\CodingFactory5\FIleManagement\bin\Debug\net8.0\FIleManagement.dll
+C:\Users\alexs\source\repos\CodingFactory5\FIleManagement\bin\Debug\net8.0\FIleManagement.pdb
+C:\Users\alexs\source\repos\CodingFactory5\FIleManagement\obj\Debug\net8.0\FIleManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\source\repos\CodingFactory5\FIleManagement\obj\Debug\net8.0\FIleManagement.AssemblyInfoInputs.cache
+C:\Users\alexs\source\repos\CodingFactory5\FIleManagement\obj\Debug\net8.0\FIleManagement.AssemblyInfo.cs
+C:\Users\alexs\source\repos\CodingFactory5\FIleManagement\obj\Debug\net8.0\FIleManagement.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\CodingFactory5\FIleManagement\obj\Debug\net8.0\FIleManagement.sourcelink.json
+C:\Users\alexs\source\repos\CodingFactory5\FIleManagement\obj\Debug\net8.0\FIleManagement.dll
+C:\Users\alexs\source\repos\CodingFactory5\FIleManagement\obj\Debug\net8.0\refint\FIleManagement.dll
+C:\Users\alexs\source\repos\CodingFactory5\FIleManagement\obj\Debug\net8.0\FIleManagement.pdb
+C:\Users\alexs\source\repos\CodingFactory5\FIleManagement\obj\Debug\net8.0\FIleManagement.genruntimeconfig.cache
+C:\Users\alexs\source\repos\CodingFactory5\FIleManagement\obj\Debug\net8.0\ref\FIleManagement.dll
